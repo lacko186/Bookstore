@@ -26,7 +26,7 @@ Smt. K.B. Parekh College of Computer Science-Mahuva</p>
 ## <center> "Smt.K.B.Parekh College of Computer Science Mahuva-364290 </center>
 ### <center>(Affiliated to Maharaja Krishnakumarsinhji Bhavnagar University)</center>
 
-<p style="text-align: right"><b>Date:</b> 15/03/2019</p>
+<p style="text-align: right"><b>Date:</b> 15/0f3/2019</p>
 
 
 ## <p style ="text-align:center">TO WHOMSOEVER IT MAY CONCERN</p>
@@ -751,12 +751,13 @@ Normally, the design proceeds in 2 stages:
 
 * <h3><center>	BMS Use Case Diagram</center></h3>
 
- ![szerk](felepites.png)
+ ![szerk](felepites.PNG)
  
 <center><h4>(Figure 10 : BMS Use Case Diagram)</h4></center>
  
 <center><h3>3.	Activity Diagram</h3></center>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Activity diagram is basically a flowchart to represent the flow from one activity to another activity. The activity can be described as an operation of the system.
+
 
 ![sokadik7](diagram7.PNG)
 
