@@ -714,7 +714,7 @@ Normally, the design proceeds in 2 stages:
 
 * ###	<center>Flowchart Diagram</center>
  
-![bmsd](bmsdiagram.png)
+![bmsd](bmsdiagram.PNG)
  
  ### <center>(Figure 6 : BMS Flowchart Diagram)</center>
 ---
@@ -723,7 +723,7 @@ Normally, the design proceeds in 2 stages:
 
 * #### 	<center>User Flow Diagram</center>
  
- ![flow](flow.png)
+ ![flow](flow.PNG)
  
 ### <center>(Figure 7 : User Flow Diagram)</center>
  
@@ -731,8 +731,8 @@ Normally, the design proceeds in 2 stages:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A use case is a set of scenarios that describing an interaction between a user and a system.  A use case diagram displays the relationship among actors and use cases.  The two main components of a use case diagram are use cases and actors.
 
-<center><img src="rajz.png"></center>
- 
+![rajz](rajz.PNG)
+
  <br>
  
  <h4><center>(Figure 8 : Use Case Diagram Symbols)</center></h4>
@@ -748,24 +748,24 @@ Normally, the design proceeds in 2 stages:
 
 *	### <center>User Use Case Diagram</center>
  
- <img src="case.png">
- 
+![rajz](case.PNG)
+
 <h4><center>(Figure 9 : User Use Case Diagram)</center></h4>
 
 
 
 * <h3><center>	BMS Use Case Diagram</center></h3>
- ![szerk](felepítes.png)
+ ![szerk](felepites.png)
 <center><h4>(Figure 10 : BMS Use Case Diagram)</h4></center>
  
 <center><h3>3.	Activity Diagram</h3></center>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Activity diagram is basically a flowchart to represent the flow from one activity to another activity. The activity can be described as an operation of the system.
 
-![sokadik](diagram7.png)
+![sokadik7](diagram7.PNG)
 
 ---
 
-![sokadik2](diagram8.png)
+![sokadik8](diagram8.PNG)
 
 
 #### <p style ="text-align:center"> (Figure 11 : Activity Diagram Symbols)</p>
@@ -774,7 +774,7 @@ Normally, the design proceeds in 2 stages:
 ## <p style="text-align:center">1.	User Activity Diagram</p>
  
  
- <img src="diagram5.png">
+ ![sokadik5](diagram5.PNG)
  
  
 <h4> <p style ="text-align:center">(Figure 12 : User Activity Diagram)</p></h4>
@@ -783,7 +783,7 @@ Normally, the design proceeds in 2 stages:
 <h2> <p style="text-align:center">2.	Login System Activity Diagram</p></h 2>
 
 
-<img src="diagram4.png">
+![sokadik4](d0iagram4.PNG)
 
 
 #### <p style ="text-align:center"> (Figure 13 : Login System Activity Diagram)</p>
@@ -797,14 +797,14 @@ Normally, the design proceeds in 2 stages:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In E-R Diagram, there are 3 main components:
 
-         
-<img src="diagram3.png"><br>
+![sokadik3](diagram3.PNG)
 
 #### <p style ="text-align:center">(Figure 14 : E-R Diagram Symbols)</p>
 
  
 * ##  <p>	E-R Diagram for Bookstore Management System</p>
-<img src="diagram.png">
+
+![sokadik](diagram.PNG)
 
 #### <p style ="text-align:center">(Figure 15 : E-R Diagram for Bookstore Management System)</p>
 
