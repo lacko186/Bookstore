@@ -755,7 +755,9 @@ Normally, the design proceeds in 2 stages:
 
 
 * <h3><center>	BMS Use Case Diagram</center></h3>
+
  ![szerk](felepites.png)
+ 
 <center><h4>(Figure 10 : BMS Use Case Diagram)</h4></center>
  
 <center><h3>3.	Activity Diagram</h3></center>
@@ -763,7 +765,9 @@ Normally, the design proceeds in 2 stages:
 
 ![sokadik7](diagram7.PNG)
 
+
 ---
+
 
 ![sokadik8](diagram8.PNG)
 
@@ -773,9 +777,11 @@ Normally, the design proceeds in 2 stages:
  
 ## <p style="text-align:center">1.	User Activity Diagram</p>
  
+
  
  ![sokadik5](diagram5.PNG)
  
+
  
 <h4> <p style ="text-align:center">(Figure 12 : User Activity Diagram)</p></h4>
  
@@ -783,7 +789,9 @@ Normally, the design proceeds in 2 stages:
 <h2> <p style="text-align:center">2.	Login System Activity Diagram</p></h 2>
 
 
+
 ![sokadik4](d0iagram4.PNG)
+
 
 
 #### <p style ="text-align:center"> (Figure 13 : Login System Activity Diagram)</p>
@@ -797,14 +805,18 @@ Normally, the design proceeds in 2 stages:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In E-R Diagram, there are 3 main components:
 
+
 ![sokadik3](diagram3.PNG)
+
 
 #### <p style ="text-align:center">(Figure 14 : E-R Diagram Symbols)</p>
 
  
 * ##  <p>	E-R Diagram for Bookstore Management System</p>
 
+
 ![sokadik](diagram.PNG)
+
 
 #### <p style ="text-align:center">(Figure 15 : E-R Diagram for Bookstore Management System)</p>
 
@@ -820,6 +832,7 @@ Various tables used in the System are as follows:
 5.	Register
 6.	Order
 Detail of all the tables with its all the fields are as below:
+
 
 
 
