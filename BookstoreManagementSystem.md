@@ -759,13 +759,13 @@ Normally, the design proceeds in 2 stages:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Activity diagram is basically a flowchart to represent the flow from one activity to another activity. The activity can be described as an operation of the system.
 
 
-![sokadik7](diagram7.PNG)
+![sokadik7](diagram7.png)
 
 
 ---
 
 
-![sokadik8](diagram8.PNG)
+![sokadik8](diagram8.png)
 
 
 #### <p style ="text-align:center"> (Figure 11 : Activity Diagram Symbols)</p>
@@ -775,7 +775,7 @@ Normally, the design proceeds in 2 stages:
  
 
  
- ![sokadik5](diagram5.PNG)
+ ![sokadik5](diagram5.png)
  
 
  
@@ -786,7 +786,7 @@ Normally, the design proceeds in 2 stages:
 
 
 
-![sokadik4](d0iagram4.PNG)
+![sokadik4](d0iagram4.png)
 
 
 
@@ -802,7 +802,7 @@ Normally, the design proceeds in 2 stages:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In E-R Diagram, there are 3 main components:
 
 
-![sokadik3](diagram3.PNG)
+![sokadik3](diagram3.png)
 
 
 #### <p style ="text-align:center">(Figure 14 : E-R Diagram Symbols)</p>
@@ -811,7 +811,7 @@ Normally, the design proceeds in 2 stages:
 * ##  <p>	E-R Diagram for Bookstore Management System</p>
 
 
-![sokadik](diagram.PNG)
+![sokadik](diagram.png)
 
 
 #### <p style ="text-align:center">(Figure 15 : E-R Diagram for Bookstore Management System)</p>
