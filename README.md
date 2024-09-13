@@ -1,11 +1,15 @@
 
+
+<style>
+.page-break { page-break-after: always; }
+</style>
 <p style = "font-size: 14px; text-align: center">A project report on</p>
 <p style = "font-size: 14px; text-align: center ">BCA-CC-606</p>
 <p style = "font-size: 26px; text-align: center ">“Bookstore Management System”</p>
 <p style = "font-size: 14px; text-align: center">Submitted to  <span style="font-weight: bold"> Smt. K.B. Parekh College of Computer Science-Mahuva </span></p>
 <p style = "font-size: 14px; text-align: center ">(Affiliated to Maharaja Krishnakumarsinhji Bhavnagar University)</p>
 
-<center><img style="width: px; " src="1.png"></center>
+<center><img style="width: 200px; " src="kep1.png"></center>
 <p style = "font-size: 14px; text-align: center ">in partial fulfillment for the award of degree of</p>
 <p style = "font-size: 28px; text-align: center ">BACHELOR<br>
 OF<br>
@@ -17,8 +21,12 @@ BARAIYA KUMAR K. (BCA SEMESTER-6 SEAT NO: 21260254)</p>
 <p style = "font-size: 14px; text-align: center;font-weight: bold">ASHSISH PANDYA</p>
 <p style = "font-size: 12px; text-align: center">Assistant Professor<br>
 Smt. K.B. Parekh College of Computer Science-Mahuva</p>
+
 <p style = "font-size: 14px; text-align: center; font-weight: bold">March - 2019
- 
+
+--- 
+
+<center><img style ="width: 250px" src ="kep2.png"></center>
 
 ## <center> "Smt.K.B.Parekh College of Computer Science Mahuva-364290 </center>
 ### <center>(Affiliated to Maharaja Krishnakumarsinhji Bhavnagar University)</center>
@@ -681,82 +689,82 @@ Normally, the design proceeds in 2 stages:
 
 ### <p style="text-align: center">1.	Data Flow Diagram<center></p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Data Flow Diagrams (DFD) is a graphical representation of the flow of data through an information system. Data Flow Diagrams are used by systems analysis to design information processing systems but also a way to model whole organization. The main merit of DFD is that it can provide an overview of what data a system would processes. What transformations of data are done, what data are stored and which stored data is used, and where the result is flow.
-Standard Symbols used in DFD:
-           Symbol	 Name	            Function
 
-Data Flow	Used to connect processes to each other. The Arrowhead indicates the direction of Data Flow.
+---
 
-Process	Performs some transformation to input data to output data.
+### <center>Standard Symbols used in DFD:</center>
+![symbol](symbol.png);
 
-Input / Output	It is used to Input or Output data.
-(Figure 3 : Data Flow Diagram Symbols)
+###	 <center>(Figure 3 : Data Flow Diagram Symbols)</center> 
 
-*	0 Level DFD (Website Flow Diagram)
+* ###	 <center>0 Level DFD (Website Flow Diagram)</center> 
+
+
+<img src="ágrajz.png">
  
-(Figure 4 : 0 Level Data Flow Diagram)
-
-*	1st Level DFD (Website Flow Diagram)
-
-
-
-
-
-
-
-
-
-
-
-
-(Figure 5 : 1st Level Data Flow Diagram)
-
-*	Flowchart Diagram
  
-(Figure 6 : BMS Flowchart Diagram)
-*	User Flow Diagram
+<h3><center>(Figure 4 : 0 Level Data Flow Diagram)</center></h3>
+
+* ###	 <center>1st Level DFD (Website Flow Diagram)</center>
+
+![diag](diagram6.png)
+
+### <center>(Figure 5 : 1<sup>st</sup> Level Data Flow Diagram)</center>
+
+* ###	<center>Flowchart Diagram</center>
  
-(Figure 7 : User Flow Diagram)
+![bmsd](bmsdiagram.png)
  
-2.	Use Case Diagram
-A use case is a set of scenarios that describing an interaction between a user and a system.  A use case diagram displays the relationship among actors and use cases.  The two main components of a use case diagram are use cases and actors.
+ ### <center>(Figure 6 : BMS Flowchart Diagram)</center>
+---
+
  
-(Figure 8 : Use Case Diagram Symbols)
 
-An actor is represents a user or another system that will interact with the sys
-Item you are modeling.  A use case is an external view of the system that represents some action the user might perform in order to complete a task.
-
-
-
-
-
-
-
-*	User Use Case Diagram
+* #### 	<center>User Flow Diagram</center>
  
-(Figure 9 : User Use Case Diagram)
-
-
-
-*	BMS Use Case Diagram
+ ![flow](flow.png)
  
-(Figure 10 : BMS Use Case Diagram)
+### <center>(Figure 7 : User Flow Diagram)</center>
  
-3.	Activity Diagram
-Activity diagram is basically a flowchart to represent the flow from one activity to another activity. The activity can be described as an operation of the system.
-Name of symbols	Symbols	Description
-Start symbol	 	Represents the beginning of a process or workflow in an activity diagram. It can be used by itself or with a note symbol that explains the starting point.
-Activity symbol	 	Indicates the activities that make up a modeled process. These symbols, which include short descriptions within the shape, are the main building blocks of an activity diagram.
-Connector symbol
-	
-Shows the directional flow, or control flow, of the activity. An incoming arrow starts a step of an activity; once the step is completed, the flow continues with the outgoing arrow.
+#### 2.	Use Case Diagram
 
-Decision symbol	 	Represents a decision and always has at least two paths branching out with condition text to allow users to view options. This symbol represents the branching or merging of various flows with the symbol acting as a frame or container.
-End symbol	 	Marks the end state of an activity and represents the completion of all flows of a process. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A use case is a set of scenarios that describing an interaction between a user and a system.  A use case diagram displays the relationship among actors and use cases.  The two main components of a use case diagram are use cases and actors.
 
-Joint symbol/ Synchronization bar	
- 	Combines two concurrent activities and re-introduces them to a flow where only one activity occurs at a time. Represented with a thick vertical or horizontal line.
-Fork symbol	 	Splits a single activity flow into two concurrent activities. Symbolized with multiple arrowed lines from a join.
+<center><img src="rajz.png"></center>
+ 
+ <br>
+ 
+ <h4><center>(Figure 8 : Use Case Diagram Symbols)</center></h4>
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;An actor is represents a user or another system that will interact with the sys<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Item you are modeling.  A use case is an external view of the system that represents some action the user might perform in order to complete a task.
+
+
+
+
+
+
+
+*	### <center>User Use Case Diagram</center>
+ 
+ <img src="case.png">
+ 
+<h4><center>(Figure 9 : User Use Case Diagram)</center></h4>
+
+
+
+* <h3><center>	BMS Use Case Diagram</center></h3>
+ ![szerk](felepítes.png)
+<center><h4>(Figure 10 : BMS Use Case Diagram)</h4></center>
+ 
+<center><h3>3.	Activity Diagram</h3></center>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Activity diagram is basically a flowchart to represent the flow from one activity to another activity. The activity can be described as an operation of the system.
+
+![sokadik](diagram7.png)
+
+---
+
+![sokadik2](diagram8.png)
 
 
 #### <p style ="text-align:center"> (Figure 11 : Activity Diagram Symbols)</p>
@@ -1089,7 +1097,7 @@ Register Page for Viewers.
 
 
 ###### 6.	Contact Us Page
- <img src="Contact.png">
+ <img src="contact.png">
 <p style="text-align: center;font-weight: bold">(Figure 21 : BMS Contact Us Page)</p>
 
 ###### 7.	Cart Page
