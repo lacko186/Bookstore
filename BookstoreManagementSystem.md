@@ -696,7 +696,7 @@ Normally, the design proceeds in 2 stages:
 * ###	 <center>0 Level DFD (Website Flow Diagram)</center> 
 
 
-![agrajz](agrajz.PNG)
+<center>![agrajz](agrajz.PNG)</center>center>
  
  
 <h3><center>(Figure 4 : 0 Level Data Flow Diagram)</center></h3>
