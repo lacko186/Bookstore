@@ -786,7 +786,7 @@ Normally, the design proceeds in 2 stages:
 
 
 
-![sokadik4](d0iagram4.png)
+![sokadik4](diagram4.png)
 
 
 
