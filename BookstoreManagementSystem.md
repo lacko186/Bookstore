@@ -1,8 +1,4 @@
 
-
-<style>
-.page-break { page-break-after: always; }
-</style>
 <p style = "font-size: 14px; text-align: center">A project report on</p>
 <p style = "font-size: 14px; text-align: center ">BCA-CC-606</p>
 <p style = "font-size: 26px; text-align: center ">“Bookstore Management System”</p>
@@ -1093,7 +1089,7 @@ Register Page for Viewers.
 
 
 ###### 6.	Contact Us Page
- <img src="contact.png">
+ <img src="Contact.png">
 <p style="text-align: center;font-weight: bold">(Figure 21 : BMS Contact Us Page)</p>
 
 ###### 7.	Cart Page
